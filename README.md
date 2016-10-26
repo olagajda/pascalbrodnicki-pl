@@ -4,6 +4,7 @@ I co-coded this website as a junior web developer along with Patryk Kabaj/[ykka.
 
 We built a WordPress theme initiated with [Underscores](http://underscores.me/).
 
+
 ![](http://img.olagjd.com/pascal-land.png)
 
 ![](http://img.olagjd.com/pascal-more.gif)
