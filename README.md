@@ -7,9 +7,9 @@ We built a WordPress theme initiated with [Underscores](http://underscores.me/).
 
 
 
-![](http://img.olagjd.com/pascal-land.png)
+![](http://img.aleksandragajda.com/pascal-land.png)
 
-![](http://img.olagjd.com/pascal-more.gif)
+![](http://img.aleksandragajda.com/pascal-more.gif)
 
-![](http://img.olagjd.com/pascal-tasks.gif)
+![](http://img.aleksandragajda.com/pascal-tasks.gif)
 
